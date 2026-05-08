@@ -1,2 +1,0 @@
-# veriyapilariodevi
-Veri Yapıları Ödevi
